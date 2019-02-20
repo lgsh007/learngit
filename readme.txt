@@ -5,3 +5,4 @@ add line
 
 git is GPL
 git has a mutable index called stage
+git tmp
