@@ -1,4 +1,5 @@
-git is a version control system
+git readme
+git is a version control systemi
 git is free software
 add line
 
